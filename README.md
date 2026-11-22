@@ -70,3 +70,9 @@ Python, pandas, NumPy, Matplotlib, Seaborn, scikit-learn, Jupyter
 ## License
 
 MIT
+
+## Acknowledgements
+
+Dataset: P. Cortez and A. Silva, "Using Data Mining to Predict Secondary School
+Student Performance", 2008. Available at the UCI Machine Learning Repository:
+https://archive.ics.uci.edu/dataset/320/student+performance
